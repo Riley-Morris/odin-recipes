@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(223, 197, 163);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:500;
+}
+
+p {
+    font-size: 18px;
+}
+.header {
+    font-size: 22px;
+}
+.container {
+   display: flex;
+   align-items: center;
+}
+.image {
+    text-align: right;
+}
